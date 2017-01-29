@@ -11,7 +11,14 @@ body {
     height: 100%;
 }
 
+#navBarMain {
+    margin-bottom: 0;
+    border-bottom: 0;
+}
+
+
 .navA {
+    margin: 0;
     border-right: 2px solid #dddddd;
     text-decoration: none;
     color: grey;
